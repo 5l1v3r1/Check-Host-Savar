@@ -24,7 +24,7 @@ os.system('iptables -A INPUT -s 199.38.245.218/24 -j DROP')
 os.system('iptables -A INPUT -s 146.196.65.20/24 -j DROP')
 os.system('iptables -A INPUT -s 31.148.219.0/24 -j DROP')
 print """
-\033[35;91m
+\033[37m 
                                   ██▌
                                ▄▄███▀
                               █████ ▄█░
