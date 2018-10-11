@@ -1,4 +1,4 @@
-# git clone https://github.com/PolatBey/Check-Host-Savar.git
-# python checkhost.py
+$ git clone https://github.com/PolatBey/Check-Host-Savar.git
+$ python checkhost.py
 
-https://prnt.sc/l2oobz
+# https://prnt.sc/l2oobz
